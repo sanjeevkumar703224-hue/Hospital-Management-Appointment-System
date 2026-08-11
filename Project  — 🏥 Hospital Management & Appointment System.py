@@ -1,4 +1,4 @@
-import tkinter as tk
+import tkinter as 
 from tkinter import ttk, messagebox
 import sqlite3
 from datetime import datetime
